@@ -29,7 +29,7 @@ Our current research interests include:
 - **Modern Scattering Amplitudes**  
   On-shell methods, recursion relations, color–kinematics duality, dual conformal symmetry, geometric formulations.
 
-- **String-Theory Amplitudes & \(\alpha'\)-Corrections**  
+- **String-Theory Amplitudes & $\alpha'$-Corrections**  
   Field-theory limits of string amplitudes, universal relations, recursion and differential-equation methods for stringy corrections.
 
 - **Effective Field Theories**  
