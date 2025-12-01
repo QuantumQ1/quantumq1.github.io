@@ -24,6 +24,6 @@ header_pages:
   - research.md
   - publications.md
   - members.md
-  - conferences.md
+  - conference.md
   # 如果想让中文主页也在导航栏里出现，可以再加一行：
   # - index-cn.md
