@@ -1,14 +1,21 @@
 <header class="site-header">
   <div class="container header-inner">
-    <h1 class="lab-name"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    
+    <!-- Site Title -->
+    <h1 class="lab-name">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1>
+
+    <!-- Navigation -->
     <nav class="main-nav">
-       <a href="/home/">Home</a>
+      <a href="{{ '/' | relative_url }}">Home</a>
       <a href="/research/">Research</a>
       <a href="/publications/">Publications</a>
       <a href="/members/">Members</a>
-      <a href="/conference/">Conferences</a> 
+      <a href="/conferences/">Conferences</a>
       <a href="/opportunities/">Opportunities</a>
       <!-- <a href="/contact/">Contact</a> -->
     </nav>
+
   </div>
 </header>
