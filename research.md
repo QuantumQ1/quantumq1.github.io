@@ -34,9 +34,9 @@ Typical questions include:
 
 ---
 
-## 2. String Theory Amplitudes and \(\alpha'\) Corrections
+## 2. String Amplitudes 
 
-Another main direction is the study of **string scattering amplitudes** and their field-theory limits, including the structure of \(\alpha'\)-corrections to gauge and gravity theories. I am particularly interested in:
+Another main direction is the study of **string amplitudes** and their field-theory limits, including the structure of \(\alpha'\)-corrections to gauge and gravity theories. I am particularly interested in:
 
 - How string amplitudes encode infinite towers of higher-derivative operators.
 - Universal relations between bosonic string, heterotic string and superstring amplitudes.
