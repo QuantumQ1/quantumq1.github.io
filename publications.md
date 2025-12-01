@@ -35,8 +35,6 @@ Kinematics and the Canonical Yang-Mills All-Loop Integrand](https://journals.aps
    N. Arkani-Hamed, *Q. Cao*, J. Dong, C. Figueiredo and S. He,
    *Phys. Rev. Lett.* **134**, (2025) 171601.  
    [arXiv:2408.11891](https://arxiv.org/abs/2408.11891)
-
-  
 - **[Supergluon scattering in AdS:
 constructibility, spinning amplitudes, and new structures](https://link.springer.com/article/10.1007/JHEP10(2024)040)**  
    *Q. Cao*, S. He, X. Li and Y. Tang,
@@ -50,7 +48,7 @@ tree-level particle and string scattering amplitudes](https://link.springer.com/
 - **[A universal splitting of tree-level
 string and particle scattering amplitudes](https://doi.org/10.1016/j.physletb.2024.138934)**  
    *Q. Cao*, J. Dong, S. He, C. Shi and F. Zhu,
-   * Phys. Lett. B* **856**, (2024) 138934.  
+   *Phys. Lett. B* **856**, (2024) 138934.  
    [arXiv:2403.08855](https://arxiv.org/abs/2403.08855)
 - **[Nonlinear Sigma model amplitudes to all loop orders are contained in
 the Tr(Φ3) theory](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.065018)**  
@@ -71,7 +69,6 @@ zeros for particle/string amplitudes and the unity of colored scalars](https://l
    [arXiv:2312.16282](https://arxiv.org/abs/2312.16282)
 
 
-  
 - **[Constructibility of AdS Supergluon
 Amplitudes](https://doi.org/10.1103/PhysRevLett.133.021605)**  
    *Q. Cao*, S. He,and Y. Tang,
