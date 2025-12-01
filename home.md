@@ -1,0 +1,18 @@
+---
+layout: default
+title: Home
+---
+
+# Lab of Quantum Fields and Strings
+
+Welcome! Our group's research focuses on Quantum Field Theory and String Theory, especailly scattering amplitudes in QFT and ST. Below are recent news and papers.
+
+## Recent
+
+- **2025-11-01** — New preprint: *Title* (arXiv:xxxx.xxxxx)
+
+
+## Quick links
+
+- [Inspirehep](https://inspirehep.net/authors/2000201)
+- [ArXiv](https://arxiv.org/list/hep-th/new)
