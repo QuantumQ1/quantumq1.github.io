@@ -15,4 +15,4 @@ Welcome! Our group's research focuses on Quantum Field Theory and String Theory,
 ## Quick links
 
 - [Inspirehep](https://inspirehep.net/authors/2000201)
-- [Arxiv](https://arxiv.org/list/hep-th/new)
+- [ArXiv](https://arxiv.org/list/hep-th/new)
