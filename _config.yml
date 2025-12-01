@@ -1,0 +1,9 @@
+title: "Your Lab Name"
+description: "理论物理研究组 — scattering amplitudes, string theory, quantum gravity"
+baseurl: ""
+url: "https://quantumq1.github.io"
+markdown: kramdown
+theme: minima
+kramdown:
+  math_engine: mathjax
+permalink: /:title/
