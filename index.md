@@ -56,7 +56,7 @@ Learn more on the [Research page](/research/).
 
 A selection of recent papers from our group:
 
--**[Form Factors from String Amplitudes](https://journals.aps.org/prl/abstract/10.1103/svb5-mhpc)**  
+- **[Form Factors from String Amplitudes](https://journals.aps.org/prl/abstract/10.1103/svb5-mhpc)**  
    *Q. Cao*,
    *Phys.Rev.Lett.* **135**, (2025) 021603.  
    [arXiv:2504.15602](https://arxiv.org/abs/2504.15602)
