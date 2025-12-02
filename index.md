@@ -3,10 +3,7 @@ layout: default
 title: Home
 ---
 
-{%<!-- Language switch bar -->
-<p style="text-align: right; font-size: 0.9rem;">
-  <a href="/" style="margin-right: 0.5rem; font-weight: bold;">English</a> |
-  <a href="/cn/" style="margin-left: 0.5rem;">中文</a> </p>%}
+ <!-- Language switch bar <p style="text-align: right; font-size: 0.9rem;"> <a href="/" style="margin-right: 0.5rem; font-weight: bold;">English</a> |  <a href="/cn/" style="margin-left: 0.5rem;">中文</a> </p> -->
 
 <!-- Banner image -->
 <p style="text-align: center;">
