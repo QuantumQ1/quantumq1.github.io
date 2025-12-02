@@ -17,8 +17,8 @@ title: Home
 # Lab of Quantum Fields and Strings
 
 Welcome to the **Lab of Quantum Fields and Strings**.  
-Our group works on fundamental problems in **Quantum Field Theory (QFT)**, **String Theory (ST)**, and **Scattering Amplitudes**.  
-We aim to uncover hidden structures behind quantum interactions, develop new mathematical frameworks, and apply modern amplitude techniques across field theory, gravity, and string theory.
+Our group works on fundamental problems in **Quantum Field Theory (QFT)** and **String Theory (ST)**, especially **Scattering Amplitudes**, which are the key oberservables bridging the theory and experiment.
+We aim to uncover hidden structures behind the scattering amplitudes, develop new mathematical frameworks, and apply modern amplitude techniques across field theory, gravity, and string theory.
 
 ---
 
