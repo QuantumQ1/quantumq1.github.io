@@ -55,9 +55,9 @@ Interested candidates may apply by sending:
 
 ---
 
-## Visiting Students
+## Visitors
 
-We welcome **visiting students** (undergraduate, Master, or PhD level) who wish to spend **a short-term research period** in our group.
+We welcome **visitors** (undergraduate, Master, PhD level or Postdoc) who wish to spend **a short-term research period** in our group.
 
 Visitors can participate in:
 - Research projects in amplitudes and string theory  
