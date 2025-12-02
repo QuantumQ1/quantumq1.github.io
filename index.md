@@ -21,22 +21,20 @@ We aim to uncover the deep mathematical structures governing fundamental interac
 
 ## Research Areas
 
-Our current research interests include:
+Our group’s research interests mainly focus on various aspects of scattering amplitudes in quantum field theory and string theory, including:
+
+- **Hidden properties and relations of scattering amplitudes**  
+
+- **On-shell methods for scattering amplitudes**  
 
 - **Colour-Kinematics duality and the Double Copy**  
-  On-shell methods, recursion relations, color–kinematics duality, dual conformal symmetry, geometric formulations.
 
 - **String Amplitudes & Worldsheet formula**  
-  Field-theory limits of string amplitudes, universal relations, recursion and differential-equation methods for stringy corrections.
 
 - **Geometry behind the scattering amplitudes**
 
-  
 - **Observables in Curved Spacetime**  
-  Amplitudes in AdS/CFT, bootstrap perspectives, and connections to black hole physics.
   
-
-
 Learn more on the [Research page](/research/).
 
 ---
