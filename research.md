@@ -5,9 +5,9 @@ title: Research
 
 # Research
 
-My research is broadly focused on **theoretical high-energy physics**, especially on the structure of **scattering amplitudes** and their realization in **string theory** and related effective field theories.
+Our gourp's research is broadly focused on **High-Energy Physics Theory**, especially on the structures of **scattering amplitudes** in the **QFT** and **String Theory**.
 
-Below is a brief overview of my current research interests and some suggested introductory references for students and collaborators.
+Below is a brief overview of Our gourp's research interests and some suggested introductory references for students and collaborators.
 
 ---
 
@@ -46,7 +46,6 @@ Another main direction is the study of **string amplitudes** and their field-the
 
 - B. Zwiebach, *A First Course in String Theory* (Cambridge University Press).  
 - M. B. Green, J. H. Schwarz and E. Witten, *Superstring Theory*, Vol. 1 (Cambridge University Press) – basic string worldsheet and tree-level amplitudes.  
-- C. P. Burgess, *Introduction to Effective Field Theory* – for the general EFT viewpoint on higher-derivative corrections.
 
 **More focused on amplitudes**
 
