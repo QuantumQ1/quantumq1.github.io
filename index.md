@@ -50,11 +50,8 @@ Learn more on the [Research page](/research/).
 
 ## News & Updates
 
-- **2025-11-01** — New preprint posted: *Title* (arXiv:xxxx.xxxxx).  
-- **2025-09-15** — Our group presented at *Amplitudes 2025* (Seoul).  
-- **2025-07-20** — Invited seminar on **stringy corrections and recursion relations**.  
-- **2025-03-01** — Two new MSc/PhD students joined the group.  
-- **2024-12-10** — Website launched!  
+<!-- - **2025-11-01** — New preprint posted: *Title* (arXiv:xxxx.xxxxx). --> 
+- **2025-12-1** — Website launched!  
 
 ---
 
