@@ -34,7 +34,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 
 
-Below is a brief overview of Our gourp's research interests and some suggested introductory references for students and collaborators.
+**Below is a brief overview of our gourp's research interests and some suggested introductory references for students and collaborators.**
 
 ---
 
