@@ -27,7 +27,7 @@ Our group’s research interests mainly focus on various aspects of scattering a
 
 - **On-shell methods for scattering amplitudes**  
 
-- **Colour-Kinematics duality and the Double Copy**  
+- **Color-Kinematics duality and the Double Copy**  
 
 - **String Amplitudes & Worldsheet formula**  
 
