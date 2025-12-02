@@ -56,11 +56,32 @@ Learn more on the [Research page](/research/).
 
 A selection of recent papers from our group:
 
-- **[Yang-Mills and String Amplitudes at Finite α′](/publications/)**  
-  *Journal: PRL (2025)*
+-**[Form Factors from String Amplitudes](https://journals.aps.org/prl/abstract/10.1103/svb5-mhpc)**  
+   *Q. Cao*,
+   *Phys.Rev.Lett.* **135**, (2025) 021603.  
+   [arXiv:2504.15602](https://arxiv.org/abs/2504.15602)
 
-- **[Bootstrapping Bosonic String Amplitudes from Field Theory](/publications/)**  
-  *Journal: JHEP (2024)*
+- **[Surface
+Kinematics and the Canonical Yang-Mills All-Loop Integrand](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.171601)**  
+   N. Arkani-Hamed, *Q. Cao*, J. Dong, C. Figueiredo and S. He,
+   *Phys. Rev. Lett.* **134**, (2025) 171601.  
+   [arXiv:2408.11891](https://arxiv.org/abs/2408.11891)
+
+- **[Scalar-scaffolded gluons and the combinatorial origins of Yang-Mills
+theory](https://link.springer.com/article/10.1007/JHEP04(2025)078)**  
+   N. Arkani-Hamed, *Q. Cao*, J. Dong, C. Figueiredo and S. He,
+   *JHEP* **04**, (2025) 078.  
+   [arXiv:2401.00041](https://arxiv.org/abs/2401.00041)
+- **[Hidden
+zeros for particle/string amplitudes and the unity of colored scalars](https://link.springer.com/article/10.1007/JHEP10(2024)231)**  
+   N. Arkani-Hamed, *Q. Cao*, J. Dong, C. Figueiredo and S. He,
+   *JHEP* **10**, (2024) 231.  
+   [arXiv:2312.16282](https://arxiv.org/abs/2312.16282)
+- **[Constructibility of AdS Supergluon
+Amplitudes](https://doi.org/10.1103/PhysRevLett.133.021605)**  
+   *Q. Cao*, S. He,and Y. Tang,
+   *Phys. Rev. Lett.* **133** (2024) 021605
+   [arXiv:2312.15484](https://arxiv.org/abs/2312.15484)
 
 See full list on the [Publications page](/publications/).
 
