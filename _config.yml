@@ -10,7 +10,7 @@ plugins:
 # site params
 author:
   name: "Qu Cao"
-  email: "qucao@westlake.edu.cn"
+  email: "caoqu@westlake.edu.cn"
 
 # mathjax
 kramdown:
