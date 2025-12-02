@@ -9,9 +9,9 @@ title: Home
   <img src="/assets/img/lab-banner.jpg" alt="Lab of Quantum Fields and Strings" style="max-width: 100%; border-radius: 8px;">
 </p>
 
-# Lab of Quantum Fields and Strings
+# Quantum Fields and Strings Lab
 
-Welcome to the **Lab of Quantum Fields and Strings**.  
+Welcome to the **Quantum Fields and Strings Lab**.  
 
 Our group conducts research in **Quantum Field Theory (QFT)** and **String Theory**, with a primary emphasis on understanding the structural and analytical properties of **Scattering Amplitudes**. As a fundamental bridge between high-energy experiments(such as proton–proton collisions at the Large Hadron Collider) and high-energy physics theory, scattering amplitudes encode essential information about the elementary forces of nature. 
 
