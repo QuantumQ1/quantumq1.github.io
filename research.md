@@ -25,7 +25,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 5. The year 2013 marked an important milestone: Cachazo, He, and Yuan (CHY) introduced the CHY formalism, expressing arbitrary-dimensional tree amplitudes in a remarkably elegant form based on integrals over the Riemann sphere. Meanwhile, Nima Arkani-Hamed and collaborators sought the mathematics behind scattering amplitudes and introduced the Amplituhedron—a geometric object whose volume encodes tree amplitudes and one-loop integrands in \mathcal{N}=4 SYM.
 
-6. In 2017, Sebastián Mizera introduced algebraic topology into scattering amplitudes, interpreting certain amplitudes as intersection numbers in topology and computing the number of master integrals in loop computations. Nima and collaborators further elevated the amplituhedron to a broader mathematical framework: **positive geometry**, extending amplitude ideas to many other contexts (cosmological wavefunctions, scalar field theories, etc.).
+6. In 2017, Sebastián Mizera introduced algebraic topology into scattering amplitudes, interpreting certain amplitudes as intersection numbers in topology and computing the number of master integrals in loop computations. Nima and collaborators further elevated the amplituhedron to a broader mathematical framework: positive geometry, extending amplitude ideas to many other contexts (cosmological wavefunctions, scalar field theories, etc.).
 
 7. ………
 
