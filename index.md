@@ -17,7 +17,9 @@ title: Home
 # Lab of Quantum Fields and Strings
 
 Welcome to the **Lab of Quantum Fields and Strings**.  
+
 Our group conducts research in **Quantum Field Theory (QFT)** and **String Theory**, with a primary emphasis on understanding the structural and analytical properties of **Scattering Amplitudes**. As a fundamental bridge between high-energy experiments(such as proton–proton collisions at the Large Hadron Collider) and high-energy physics theory, scattering amplitudes encode essential information about the elementary forces of nature. 
+
 We aim to uncover the deep mathematical structures governing fundamental interactions, develop new analytic and geometric frameworks, and apply these insights to problems in field theory, gravity, and string theory.
 
 ---
@@ -26,17 +28,18 @@ We aim to uncover the deep mathematical structures governing fundamental interac
 
 Our current research interests include:
 
-- **Modern Scattering Amplitudes**  
+- **Colour-Kinematics duality and the Double Copy**  
   On-shell methods, recursion relations, color–kinematics duality, dual conformal symmetry, geometric formulations.
 
 - **String Amplitudes & Worldsheet formula**  
   Field-theory limits of string amplitudes, universal relations, recursion and differential-equation methods for stringy corrections.
 
+- **Geometry behind the scattering amplitudes**
+
+  
 - **Observables in Curved Spacetime**  
   Amplitudes in AdS/CFT, bootstrap perspectives, and connections to black hole physics.
-
-- **Effective Field Theories**  
-  Higher-derivative operators, EFT bootstrap, constraints from unitarity, locality and analyticity.
+  
 
 
 Learn more on the [Research page](/research/).
