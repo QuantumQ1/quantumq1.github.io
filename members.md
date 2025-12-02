@@ -83,11 +83,3 @@ Project: Introductory study of perturbative quantum field theory and basic ampli
 **Short-term visitor (2025)**  
 Home institution: XXX University  
 Research: Black holes, holography, and quantum information.
-
----
-
-## Alumni
-
-- Dr. Alumni 1 — now postdoc at Some Institute  
-- Dr. Alumni 2 — now faculty at Another University  
-- Student Alumni 3 — now in industry (data science)
