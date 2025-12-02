@@ -17,6 +17,12 @@ Our group conducts research in **Quantum Field Theory (QFT)** and **String Theor
 
 We aim to uncover the deep mathematical structures governing fundamental interactions, develop new analytic and geometric frameworks, and apply these insights to problems in field theory, gravity, and string theory.
 
+___
+## Why should we study scattering amplitudes? 
+1. Scattering amplitudes are derived objects within the framework of quantum field theory, serving as a bridge between theory and experiment. Experimentally, people care about measurable physical quantities, while theoretically we are used to computing quantities that are accessible to established methods. Scattering amplitudes form this bridge: they can be computed theoretically, and after further processing (such as taking the modulus squared, summing over quantum numbers, integrating over phase space, etc.), they yield theoretical predictions for experimentally observable quantities (such as differential cross sections, decay rates, and so on).
+2. Scattering amplitudes are the consequence of fundamental principles of quantum field theory (such as unitarity and locality), and studying them helps us explore the core structure of QFT itself. Traditionally, QFT is approached from the Lagrangian, followed by quantization (canonical or path-integral), and then perturbative computation of amplitudes using Feynman diagrams. However, the number of Feynman diagrams grows rapidly with particle multiplicity, making amplitude computations increasingly difficult. This motivates an alternative approach—abandoning lengthy Feynman-diagram calculations and instead using fundamental principles directly to compute amplitudes. This conceptual shift has been one of the major developments in scattering amplitudes in the past two decades.
+3. Rich and surprising mathematics lies behind scattering amplitudes. It is astonishing that a seemingly small subfield of QFT can connect to a broad range of mathematics—including residue theorems in complex analysis, intersection numbers in topology, Hopf algebras, computational algebraic geometry, positive geometry, and more. Research on amplitudes has stimulated progress in mathematics, while mathematics itself has become deeply rooted in the study of amplitudes.
+
 ---
 
 ## Research Areas
