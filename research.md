@@ -11,7 +11,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 ## A brief historical review of scattering amplitude research and its major developments:
 
-1. The spinor-helicity formalism, introduced creatively in the 1980s by three Chinese physicists, greatly simplified the structure of scattering amplitudes. This method became known as the “Chinese Magic.” A prominent example is the MHV tree-level amplitude in pure Yang–Mills theory obtained by Parke and Taylor:
+1. The spinor-helicity formalism, introduced creatively in the 1980s by three Chinese physicists（Zhan Xu, Dahua Zhang, and Lee Chang）, greatly simplified the structure of scattering amplitudes. This method became known as the “Chinese Magic.” A prominent example is the MHV tree-level amplitude in pure Yang–Mills theory obtained by Parke and Taylor:
 
    $$A_{n}\left[1^{+} \ldots i^{-} \ldots j^{-} \ldots n^{+}\right]=\frac{\langle i j\rangle^{4}}{\langle 12\rangle\langle 23\rangle \cdots\langle n 1\rangle}$$
 
