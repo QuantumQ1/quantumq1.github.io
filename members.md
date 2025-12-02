@@ -13,6 +13,7 @@ Below is the current list of group members.
 ## Principal Investigator
 
 ### Dr. Qu Cao
+<img src="/assets/images/members/pi.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
 **Position:** Principal Investigator (PI)  
 **Email:** caoqu@westlake.edu.cn  
 **Office:** Room , Department of Physics, School of Science  
