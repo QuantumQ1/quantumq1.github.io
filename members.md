@@ -12,15 +12,12 @@ Below is the current list of group members.
 
 ## Principal Investigator
 
+<img src="/assets/images/members/pi.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
+
 ### Dr. Qu Cao
 **Position:** Principal Investigator (PI)  
 **Email:** caoqu@westlake.edu.cn  
 **Office:** Room , Department of Physics, School of Science  
-
-
-<p align="center">
-  <img src="/assets/images/members/pi.jpg" width="200">
-</p>
 
 Research interests:
 - Scattering amplitudes in gauge theory and gravity  
