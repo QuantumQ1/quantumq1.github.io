@@ -67,19 +67,4 @@ Research topics:
 **MSc Student**  
 Project: Numerical experiments for effective field theories and amplitudes.
 
----
 
-## Undergraduate Students
-
-### Undergrad D
-**Undergraduate Research Assistant**  
-Project: Introductory study of perturbative quantum field theory and basic amplitude techniques.
-
----
-
-## Visitors
-
-### Visitor E
-**Short-term visitor (2025)**  
-Home institution: XXX University  
-Research: Black holes, holography, and quantum information.
