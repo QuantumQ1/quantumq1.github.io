@@ -63,10 +63,10 @@ Research interests:
 ###  Dongyu Yang(Visitor)
 **MSc Student (Year 2)**  
 Projects:
-- New experssion and structures for amplitudes in the $DF^2+YM$ theory
+- New experssion and structures for amplitudes in $DF^2+YM$ theory
 
 
 ### Zhenqi Han(Visitor)
 **MSc Student (Year 2)**  
 Projects:
-- New representations of amplitudes in the NLSM theory
+- New representations of amplitudes in NLSM theory
