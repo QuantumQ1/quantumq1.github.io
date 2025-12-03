@@ -50,14 +50,9 @@ Typical questions include:
 
 **Recommended reading (introductory level)**
 
--G. Travaglini, A. Brandhuber, P. Dorey, T. McLoughlin, eds.,“The SAGEX Review on Scattering Amplitudes”, J. Phys. A 55 no. 44, (2022) 443001, [arXiv:2203.13011](https://arxiv.org/abs/2203.13011).
+-G. Travaglini, A. Brandhuber, P. Dorey, T. McLoughlin, eds.,“The SAGEX Review on Scattering Amplitudes”, [J. Phys. A 55 no. 44, (2022) 443001](https://iopscience.iop.org/article/10.1088/1751-8121/ac8380), [arXiv:2203.13011](https://arxiv.org/abs/2203.13011).
 - H. Elvang and Y.-t. Huang, *Scattering Amplitudes in Gauge Theory and Gravity* (Cambridge University Press, 2015), [arXiv:1308.1697](https://arxiv.org/abs/1308.1697).  
 - J. M. Henn and J. C. Plefka, *Scattering Amplitudes in Gauge Theories* (Springer, 2014).
-
-**Further reading**
-
-- N. Arkani-Hamed and J. Trnka, “The Amplituhedron,” [arXiv:1312.2007](https://arxiv.org/abs/1312.2007).  
-- Z. Bern, J. Carrasco and H. Johansson, “New Relations for Gauge-Theory Amplitudes,” [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
 
   ---
 
@@ -65,22 +60,14 @@ Typical questions include:
 
 Even though the study of scattering amplitudes is already well developed, many hidden properties and relations (such as the zeros, splitting, and universial expansion relations) have only been discovered recently. There remain mysteries yet to be uncovered, and we continue to seek a deeper understanding of scattering amplitudes.
 
-Typical questions include:
 
-- How do on-shell methods simplify perturbative calculations in gauge theory and gravity?
-- What is the geometric meaning of amplitudes (e.g. Grassmannians, polytopes)?
-- How do these structures generalize beyond supersymmetric theories?
+**Recommended reading**
 
-**Recommended reading (introductory level)**
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He,"Hidden
+zeros for particle/string amplitudes and the unity of colored scalars" JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
+-  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
+-  Q. Cao, J. Dong, S. He and F. Zhu, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
 
-- H. Elvang and Y.-t. Huang, *Scattering Amplitudes in Gauge Theory and Gravity* (Cambridge University Press, 2015).  
-- H. Elvang and Y.-t. Huang, “Scattering Amplitudes” (lecture notes), [arXiv:1308.1697](https://arxiv.org/abs/1308.1697).  
-- J. M. Henn and J. C. Plefka, *Scattering Amplitudes in Gauge Theories* (Springer, 2014).
-
-**Further reading**
-
-- N. Arkani-Hamed and J. Trnka, “The Amplituhedron,” [arXiv:1312.2007](https://arxiv.org/abs/1312.2007).  
-- Z. Bern, J. Carrasco and H. Johansson, “New Relations for Gauge-Theory Amplitudes,” [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
 
 ---
 
