@@ -46,7 +46,7 @@ Research interests:
 
 ## PhD Students
 
-### Student Fan Zhu (Visitor)
+### Fan Zhu (Visitor)
 **PhD Student (Year 1)**  
 **Email:** zhufan25@gscaep.ac.cn
 
@@ -60,13 +60,13 @@ Research interests:
 
 ## Master Students
 
-### M.Sc. Student Dongyu Yang(Visitor)
+###  Dongyu Yang(Visitor)
 **MSc Student (Year 2)**  
 Projects:
 - New experssion and structures for amplitudes in the $DF^2+YM$ theory
 
 
-### M.Sc. Student Zhenqi Han(Visitor)
+### Zhenqi Han(Visitor)
 **MSc Student (Year 2)**  
 Projects:
 - New representations of amplitudes in the NLSM theory
