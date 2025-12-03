@@ -84,6 +84,5 @@ permutohedron](https://link.springer.com/article/10.1140/epjc/s10052-022-11168-1
 
 1. **[Loop-Level Double Copy
 Relations from Forward Limits](https://arxiv.org/abs/2509.025129)**  
-   *Q.Cao*, S. He, Y. Zhang and F. Zhu  
-   [arXiv:2509.025129](https://arxiv.org/abs/2509.025129)
+   *Q.Cao*, S. He, Y. Zhang and F. Zhu, [arXiv:2509.025129](https://arxiv.org/abs/2509.025129)
 
