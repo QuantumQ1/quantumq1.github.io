@@ -50,7 +50,7 @@ Typical questions include:
 
 **Recommended reading (introductory level)**
 
--G. Travaglini, A. Brandhuber, P. Dorey, T. McLoughlin, eds.,“The SAGEX Review on Scattering Amplitudes”, [J. Phys. A 55 no. 44, (2022) 443001](https://iopscience.iop.org/article/10.1088/1751-8121/ac8380), [arXiv:2203.13011](https://arxiv.org/abs/2203.13011).
+- G. Travaglini, A. Brandhuber, P. Dorey, T. McLoughlin, eds.,“The SAGEX Review on Scattering Amplitudes”,[J. Phys. A 55 no. 44, (2022) 443001](https://iopscience.iop.org/article/10.1088/1751-8121/ac8380), [arXiv:2203.13011](https://arxiv.org/abs/2203.13011).
 - H. Elvang and Y.-t. Huang, *Scattering Amplitudes in Gauge Theory and Gravity* (Cambridge University Press, 2015), [arXiv:1308.1697](https://arxiv.org/abs/1308.1697).  
 - J. M. Henn and J. C. Plefka, *Scattering Amplitudes in Gauge Theories* (Springer, 2014).
 
@@ -63,10 +63,10 @@ Even though the study of scattering amplitudes is already well developed, many h
 
 **Recommended reading**
 
-- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He,"Hidden
-zeros for particle/string amplitudes and the unity of colored scalars" JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
--  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
--  Q. Cao, J. Dong, S. He and F. Zhu, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He,*Hidden
+zeros for particle/string amplitudes and the unity of colored scalars*, JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
+-  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, *A universal splitting of tree-level string and particle scattering amplitudes*, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
+-  Q. Cao, J. Dong, S. He and F. Zhu, *One-loop amplitudes in gauge theories*, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
 ---
 
 ## 2. Color-Kinematics duality and the Double Copy
@@ -75,14 +75,13 @@ One of the most remarkable discoveries in the study of scattering amplitudes is 
 
 **Recommended reading (introductory level)**
 
-- Z. Bern, J.J.M. Carrasco, H. Johansson, “New Relations for Gauge-Theory Amplitudes”,Phys.Rev.D 78 (2008) 085011, [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
-- Z. Bern, J.J.M. Carrasco, H. Johansson, “Perturbative Quantum Gravity as a Double Copy of Gauge Theory”,Phys.Rev.Lett. 105 (2010) 061602 , [arXiv: 1004.0476](https://arxiv.org/abs/1004.0476).
-- Z. Bern, J. J. Carrasco, M. Chiodaroli, H. Johansson, and R. Roiban, "The duality between color and kinematics and its applications", J. Phys. A 57, 333002 (2024), [arXiv:1909.01358](https://arxiv.org/abs/1909.01358).
+- Z. Bern, J.J.M. Carrasco, H. Johansson, *New Relations for Gauge-Theory Amplitudes*,Phys.Rev.D 78 (2008) 085011, [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
+- Z. Bern, J.J.M. Carrasco, H. Johansson, *Perturbative Quantum Gravity as a Double Copy of Gauge Theory*,Phys.Rev.Lett. 105 (2010) 061602 , [arXiv: 1004.0476](https://arxiv.org/abs/1004.0476).
+- Z. Bern, J. J. Carrasco, M. Chiodaroli, H. Johansson, and R. Roiban, *The duality between color and kinematics and its applications*, J. Phys. A 57, 333002 (2024), [arXiv:1909.01358](https://arxiv.org/abs/1909.01358).
 
 **Further reading**
-- S. He and O. Schlotterer,"New Relations for Gauge-Theory and Gravity Amplitudes at Loop Level", Phys. Rev. Lett. 118, 161601 (2017), [arXiv:1612.00417](https://arxiv.org/abs/1612.00417).
-- Q.Cao, S. He, Y. Zhang and F. Zhu,"Loop-Level Double Copy
-Relations from Forward Limits", [arXiv:2509.025129](https://arxiv.org/abs/2509.025129).
+- S. He and O. Schlotterer,*New Relations for Gauge-Theory and Gravity Amplitudes at Loop Level*, Phys. Rev. Lett. 118, 161601 (2017), [arXiv:1612.00417](https://arxiv.org/abs/1612.00417).
+- Q.Cao, S. He, Y. Zhang and F. Zhu,*Loop-Level Double Copy Relations from Forward Limits*, [arXiv:2509.025129](https://arxiv.org/abs/2509.025129).
 
 ---
 
@@ -92,16 +91,16 @@ Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\t
 
 **Recommended reading (introductory level)**
 
-- F. Cachazo, S. He, and E. Y. Yuan,“Scattering of Massless Particles in Arbitrary Dimension”, Phys. Rev. Lett. 113, 171601 (2014), [arXiv:1307.2199](https://arxiv.org/abs/1307.2199).
-- F. Cachazo, S. He, and E. Y. Yuan,"Scattering of Massless Particles: Scalars, Gluons and Gravitons", JHEP 07, 033 (2014), [arXiv:1309.0885](https://arxiv.org/abs/1309.0885).
-- F. Cachazo, S. He, and E. Y. Yuan, JHEP 07, 149 (2015),"Scattering Equations and Matrices: From Einstein To Yang-Mills, DBI and NLSM", [arXiv:1412.3479](https://arxiv.org/abs/1412.3479). 
+- F. Cachazo, S. He, and E. Y. Yuan, *Scattering of Massless Particles in Arbitrary Dimension*, Phys. Rev. Lett. 113, 171601 (2014), [arXiv:1307.2199](https://arxiv.org/abs/1307.2199).
+- F. Cachazo, S. He, and E. Y. Yuan, *Scattering of Massless Particles: Scalars, Gluons and Gravitons*, JHEP 07, 033 (2014), [arXiv:1309.0885](https://arxiv.org/abs/1309.0885).
+- F. Cachazo, S. He, and E. Y. Yuan, *Scattering Equations and Matrices: From Einstein To Yang-Mills, DBI and NLSM*, JHEP 07, 149 (2015), [arXiv:1412.3479](https://arxiv.org/abs/1412.3479). 
 
 
 **Further reading**
 
-- C.R. Mafra, O. Schlottere,"Tree-level amplitudes from the pure spinor superstring",Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
-- S. Mizera, “Aspects of Scattering Amplitudes and Moduli Space Localization”, Springer Theses,  [arXiv:1906.02099](https://arxiv.org/abs/1906.02099).
-- Q. Cao, "Form Factors from String Amplitudes", Phys.Rev.Lett. 135, (2025) 021603, [arXiv:2504.15602](https://arxiv.org/abs/2504.15602).
+- C.R. Mafra, O. Schlottere, *Tree-level amplitudes from the pure spinor superstring*, Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
+- S. Mizera, *Aspects of Scattering Amplitudes and Moduli Space Localization*, Springer Theses, [arXiv:1906.02099](https://arxiv.org/abs/1906.02099).
+- Q. Cao, *Form Factors from String Amplitudes*, Phys.Rev.Lett. 135, (2025) 021603, [arXiv:2504.15602](https://arxiv.org/abs/2504.15602).
 
 
 ---
