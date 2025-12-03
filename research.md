@@ -25,7 +25,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 5. The year 2013 marked an important milestone: Cachazo, He, and Yuan (CHY) introduced the CHY formalism, expressing arbitrary-dimensional tree amplitudes in a remarkably elegant form based on integrals over the Riemann sphere. Meanwhile, Nima Arkani-Hamed and collaborators sought the mathematics behind scattering amplitudes and introduced the Amplituhedron—a geometric object whose volume encodes tree amplitudes and one-loop integrands in \mathcal{N}=4 SYM.
 
-6. In 2017, Sebastián Mizera introduced algebraic topology into scattering amplitudes, interpreting certain amplitudes as intersection numbers in topology and computing the number of master integrals in loop computations. Nima and collaborators further elevated the amplituhedron to a broader mathematical framework: positive geometry, extending amplitude ideas to many other contexts (cosmological wavefunctions, scalar field theories, etc.).
+6. In 2017, Sebastian Mizera introduced algebraic topology into scattering amplitudes, interpreting certain amplitudes as intersection numbers in topology and computing the number of master integrals in loop computations. Nima and collaborators further elevated the amplituhedron to a broader mathematical framework: positive geometry, extending amplitude ideas to many other contexts (cosmological wavefunctions, scalar field theories, etc.).
 
 7. ………
 
@@ -38,9 +38,32 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 ---
 
-## 1. Scattering Amplitudes in Gauge Theory and Gravity
+## 0. Scattering Amplitudes in Gauge Theory and Gravity
 
-I am interested in the modern formulation of scattering amplitudes in gauge theory and gravity, including on-shell methods, recursion relations, and hidden structures such as dual conformal symmetry and color–kinematics duality.
+We are interested in the modern formulation of scattering amplitudes in gauge theory and gravity, including on-shell methods, recursion relations, and hidden structures such as dual conformal symmetry and color–kinematics duality.
+
+Typical questions include:
+
+- How do on-shell methods simplify perturbative calculations in gauge theory and gravity?
+- What is the geometric meaning of amplitudes (e.g. Grassmannians, polytopes)?
+- How do these structures generalize beyond supersymmetric theories?
+
+**Recommended reading (introductory level)**
+
+-G. Travaglini, A. Brandhuber, P. Dorey, T. McLoughlin, eds.,“The SAGEX Review on Scattering Amplitudes”, J. Phys. A 55 no. 44, (2022) 443001, [arXiv:2203.13011](https://arxiv.org/abs/2203.13011).
+- H. Elvang and Y.-t. Huang, *Scattering Amplitudes in Gauge Theory and Gravity* (Cambridge University Press, 2015), [arXiv:1308.1697](https://arxiv.org/abs/1308.1697).  
+- J. M. Henn and J. C. Plefka, *Scattering Amplitudes in Gauge Theories* (Springer, 2014).
+
+**Further reading**
+
+- N. Arkani-Hamed and J. Trnka, “The Amplituhedron,” [arXiv:1312.2007](https://arxiv.org/abs/1312.2007).  
+- Z. Bern, J. Carrasco and H. Johansson, “New Relations for Gauge-Theory Amplitudes,” [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
+
+  ---
+
+## 1. Hidden properties and relations of scattering amplitudes
+
+Even though the study of scattering amplitudes is already well developed, many hidden properties and relations (such as the zeros, splitting, and universial expansion relations) have only been discovered recently. There remain mysteries yet to be uncovered, and we continue to seek a deeper understanding of scattering amplitudes.
 
 Typical questions include:
 
