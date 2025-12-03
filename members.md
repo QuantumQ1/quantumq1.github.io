@@ -5,7 +5,7 @@ title: Members
 
 # Members
 
-Our group works on theoretical high-energy physics, including scattering amplitudes, string theory and related topics.  
+Our group works on  high-energy physics theory, including scattering amplitudes, quantum field theory, string theory and related topics.  
 Below is the current list of group members.
 
 ---
