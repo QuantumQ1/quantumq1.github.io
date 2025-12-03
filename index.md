@@ -106,6 +106,8 @@ See more on the [Conferences page](/conferences/).
 
 ## Useful Links
 
+- [Westlake University](https://en.westlake.edu.cn)
+- [School of Science](https://science.westlake.edu.cn/en/)
 - [InspireHEP](https://inspirehep.net)  
 - [ArXiv hep-th new](https://arxiv.org/list/hep-th/new)  
 - [String Theory Wiki](https://stringwiki.org)  
