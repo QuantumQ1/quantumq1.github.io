@@ -30,7 +30,7 @@ It is astonishing that a seemingly small subfield of QFT can connect to a broad 
 
 ## Research Areas
 
-Our group’s research interests mainly focus on various aspects of scattering amplitudes in quantum field theory and string theory, including:
+Our group's research interests mainly focus on various aspects of scattering amplitudes in quantum field theory and string theory, including:
 
 - **Hidden properties and relations of scattering amplitudes**  
 
