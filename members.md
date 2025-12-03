@@ -22,7 +22,7 @@ Below is the current list of group members.
 Research interests:
 - Scattering amplitudes in gauge theory and gravity  
 - String amplitudes and worldsheet formula
-- AdS/CFT and holography princeple
+- AdS/CFT and holography principle
 
 [Homepage](https://quantumq1.github.io/) · [Inspirehep](https://inspirehep.net/authors/2000201) 
 
