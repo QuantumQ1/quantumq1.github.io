@@ -27,7 +27,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 6. In 2017, Sebastian Mizera introduced algebraic topology into scattering amplitudes, interpreting certain amplitudes as intersection numbers in topology and computing the number of master integrals in loop computations. Nima and collaborators further elevated the amplituhedron to a broader mathematical framework: positive geometry, extending amplitude ideas to many other contexts (cosmological wavefunctions, scalar field theories, etc.).
 
-7. ………
+7. ......
 
   In summary, current scattering amplitude research branches into several major directions. Some researchers focus on high-loop computations, which are extremely complex and often rely on bootstrap techniques and symmetry principles (color-kinematics duality, dual conformal symmetry, etc.) to compute integrands, integrals, or their symbols. Others focus on the mathematical structures behind amplitudes, such as Hopf algebras and coproducts. Still others pursue geometric interpretations of amplitudes, including positive geometry and related frameworks.
 
