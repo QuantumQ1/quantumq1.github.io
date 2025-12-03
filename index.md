@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 <!-- Banner image -->
 <p style="text-align: center;">
   <img src="/assets/img/lab-banner.jpeg" alt="Lab of Quantum Fields and Strings" style="max-width: 100%; border-radius: 8px;">
@@ -90,7 +89,7 @@ See full list on the [Publications page](/publications/).
 
 ## Group Members
 
-We are always looking for highly motivated students with interest in QFT, ST, and amplitudes.
+We are always looking for highly motivated students and collaborators with interest in QFT, ST, and amplitudes.
 
 See details on the [Members page](/members/).
 
