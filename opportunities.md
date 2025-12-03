@@ -17,19 +17,19 @@ We invite applications for **postdoctoral researcher positions** in our group.
 
 **Research areas include:**
 - Scattering amplitudes in gauge theory and gravity  
-- String theory and effective field theories  
-- Worldsheet methods and geometry of amplitudes  
-- Holography and conformal field theory  
+- String amplitudes and Worldsheet formula
+- Geometry behind the scattering amplitudes 
+- Holography and conformal field theory
+- Observables in AdS/dS spacetime
 
 **Requirements:**
 - PhD in theoretical physics or a closely related field  
-- Experience in high-energy theory, amplitudes, or mathematical physics  
-- Strong publication record and independent research ability
+- Experience in high-energy theory, amplitudes, or mathematical physics 
 
 Prospective applicants are encouraged to **contact us directly** with:
 - CV  
 - List of publications  
-- Brief description of research interests  
+- Research statements
 
 ---
 
@@ -41,7 +41,6 @@ These positions are suitable for students who plan to pursue a PhD in theoretica
 **Responsibilities:**
 - Assist with ongoing research projects  
 - Perform symbolic or numerical computations  
-- Help maintain group resources or databases (optional)  
 
 **Requirements:**
 - Bachelor’s or Master’s degree in physics, mathematics, or related areas  
@@ -50,7 +49,6 @@ These positions are suitable for students who plan to pursue a PhD in theoretica
 
 Interested candidates may apply by sending:
 - CV  
-- Transcript (optional)  
 - A short statement of interest  
 
 ---
