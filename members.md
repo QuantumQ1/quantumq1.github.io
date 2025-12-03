@@ -47,7 +47,7 @@ Research interests:
 **PhD Student (Year 1)**  
 **Email:** zhufan25@gscaep.ac.cn
 
-Research topics:
+Research interests:
 - Scattering Amplitudes in Gauge Theory and Gravity  
 - String Amplitudes and Worldsheet Formula
 
@@ -59,6 +59,5 @@ Research topics:
 
 ### M.Sc. Student 
 **MSc Student**  
-Project: Numerical experiments for effective field theories and amplitudes.
-
+Research interests:
 
