@@ -138,4 +138,3 @@ Part of the annual **stringtheory.pl** conference series, bringing together rese
   <https://www.stringwiki.org/wiki/Conferences>
 
 We will update this page occasionally as new conferences and workshops are announced.  
-If you are a student interested in attending one of these meetings, feel free to contact me for advice on which events are most suitable at your current level.
