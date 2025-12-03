@@ -38,13 +38,14 @@ Research interests:
 - Observables in Curved Spacetime (dS/AdS)
 
 [Inspirehep](https://inspirehep.net/authors/2760719) 
+
 ---
 
 ## PhD Students
 
 ### Student Fan Zhu (Visitor)
 **PhD Student (Year 1)**  
-Email: zhufan25@gscaep.ac.cn
+**Email:** zhufan25@gscaep.ac.cn
 
 Research topics:
 - Scattering Amplitudes in Gauge Theory and Gravity  
@@ -56,7 +57,7 @@ Research topics:
 
 ## Master Students
 
-### M.Sc. Student C
+### M.Sc. Student 
 **MSc Student**  
 Project: Numerical experiments for effective field theories and amplitudes.
 
