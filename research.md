@@ -66,7 +66,7 @@ Even though the study of scattering amplitudes is already well developed, many h
 - N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He, *Hidden
 zeros for particle/string amplitudes and the unity of colored scalars*, JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
 -  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, *A universal splitting of tree-level string and particle scattering amplitudes*, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
--  Q. Cao, J. Dong, S. He and F. Zhu, *One-loop amplitudes in gauge theories*, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
+- Q. Cao, J. Dong, S. He and F. Zhu, *One-loop amplitudes in gauge theories*, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
 ---
 
 ## 2. Color-Kinematics duality and the Double Copy
