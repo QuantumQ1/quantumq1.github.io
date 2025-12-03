@@ -56,7 +56,7 @@ Typical questions include:
 
   ---
 
-## 1. Hidden properties and relations of scattering amplitudes
+## 1. Hidden Properties and Relations of Scattering Amplitudes
 
 Even though the study of scattering amplitudes is already well developed, many hidden properties and relations (such as the zeros, splitting, and universial expansion relations) have only been discovered recently. There remain mysteries yet to be uncovered, and we continue to seek a deeper understanding of scattering amplitudes.
 
@@ -69,7 +69,7 @@ zeros for particle/string amplitudes and the unity of colored scalars*, JHEP 10,
 - Q. Cao, J. Dong, S. He and F. Zhu, *One-loop amplitudes in gauge theories*, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
 ---
 
-## 2. Color-Kinematics duality and the Double Copy
+## 2. Color-Kinematics Duality and Double Copy
 One of the most remarkable discoveries in the study of scattering amplitudes is the color–kinematics (CK) duality and its associated double copy. These structures appear not only in field theory but also in string theory. The CK duality and the double copy reveal hidden relations between gauge theories and gravity, providing powerful insights into the fundamental structure of gravity.
 
 
@@ -85,7 +85,7 @@ One of the most remarkable discoveries in the study of scattering amplitudes is 
 
 ---
 
-## 3. String Amplitudes and Worldsheet formula
+## 3. String Amplitudes and Worldsheet Formula
 
 Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\to0$ limit, so studying string amplitudes allows us to uncover information that goes beyond field theory . Moreover, many string-inspired methods have achieved remarkable success, such as worldsheet formulations and the Cachazo–He–Yuan (CHY) formula, which elegantly capture the underlying structures of tree-level field-theory amplitudes.
 
@@ -105,7 +105,7 @@ Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\t
 
 ---
 
-## 4. Geometry behind the scattering amplitudes
+## 4. Geometry Behind Scattering Amplitudes
 A particularly remarkable development in the study of scattering amplitudes is the emergence of underlying geometric structures. For example, amplitudes in $\mathcal{N}=4$ Super–Yang–Mills theory are elegantly encoded in the positive Grassmannian. In the simplest scalar theory, $\mathrm{Tr}(\phi^3)$, tree-level amplitudes are associated with the associahedron, while higher-loop amplitudes correspond to the surfacehedron. These insights have inspired the recent “surfaceology” program, which aims to uncover all-loop geometric patterns in more general theories, such as Yang–Mills and the Nonlinear Sigma Model.
 
 
