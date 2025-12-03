@@ -67,38 +67,49 @@ Even though the study of scattering amplitudes is already well developed, many h
 zeros for particle/string amplitudes and the unity of colored scalars" JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
 -  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
 -  Q. Cao, J. Dong, S. He and F. Zhu, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
-
-
 ---
 
-## 2. String Amplitudes 
+## 2. Color-Kinematics duality and the Double Copy
+One of the most remarkable discoveries in the study of scattering amplitudes is the color–kinematics (CK) duality and its associated double copy. These structures appear not only in field theory but also in string theory. The CK duality and the double copy reveal hidden relations between gauge theories and gravity, providing powerful insights into the fundamental structure of gravity.
 
-Another main direction is the study of **string amplitudes** and their field-theory limits, including the structure of \(\alpha'\)-corrections to gauge and gravity theories. I am particularly interested in:
-
-- How string amplitudes encode infinite towers of higher-derivative operators.
-- Universal relations between bosonic string, heterotic string and superstring amplitudes.
-- Field-theoretic methods (e.g. differential equations, recursion, bootstrap) applied directly to stringy amplitudes.
 
 **Recommended reading (introductory level)**
 
-- B. Zwiebach, *A First Course in String Theory* (Cambridge University Press).  
-- M. B. Green, J. H. Schwarz and E. Witten, *Superstring Theory*, Vol. 1 (Cambridge University Press) – basic string worldsheet and tree-level amplitudes.  
+- Z. Bern, J.J.M. Carrasco, H. Johansson, “New Relations for Gauge-Theory Amplitudes”,Phys.Rev.D 78 (2008) 085011, [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
+- Z. Bern, J.J.M. Carrasco, H. Johansson, “Perturbative Quantum Gravity as a Double Copy of Gauge Theory”,Phys.Rev.Lett. 105 (2010) 061602 , [arXiv: 1004.0476](https://arxiv.org/abs/1004.0476).
+- Z. Bern, J. J. Carrasco, M. Chiodaroli, H. Johansson, and R. Roiban, "The duality between color and kinematics and its applications", J. Phys. A 57, 333002 (2024), [arXiv:1909.01358](https://arxiv.org/abs/1909.01358).
 
-**More focused on amplitudes**
-
-- C. R. Mafra and O. Schlotterer, “Towards the field theory of open superstrings,” [arXiv:1408.3605](https://arxiv.org/abs/1408.3605).  
-- O. Schlotterer, “Amplitude methods in string theory,” [arXiv:1611.03482](https://arxiv.org/abs/1611.03482).  
-- S. Stieberger, “Open & Closed vs. Pure Open String Amplitudes,” [arXiv:0907.2211](https://arxiv.org/abs/0907.2211).
+**Further reading**
+- S. He and O. Schlotterer,"New Relations for Gauge-Theory and Gravity Amplitudes at Loop Level", Phys. Rev. Lett. 118, 161601 (2017), [arXiv:1612.00417](https://arxiv.org/abs/1612.00417).
+- Q.Cao, S. He, Y. Zhang and F. Zhu,"Loop-Level Double Copy
+Relations from Forward Limits", [arXiv:2509.025129](https://arxiv.org/abs/2509.025129).
 
 ---
 
-## 3. Effective Field Theories from String Theory
+## 3. String Amplitudes and Worldsheet formula
 
-String theory naturally generates a large class of **effective field theories** for gauge fields, scalars and gravity. I am interested in:
+Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\to0$ limit, so studying string amplitudes allows us to uncover information that goes beyond field theory . Moreover, many string-inspired methods have achieved remarkable success, such as worldsheet formulations and the Cachazo–He–Yuan (CHY) formula, which elegantly capture the underlying structures of tree-level field-theory amplitudes.
 
-- The space of EFTs that can arise as low-energy limits of string theory.
-- Constraints from unitarity, locality and analyticity on higher-derivative operators.
-- Relations between string-derived EFTs and modern amplitude bootstrap approaches.
+**Recommended reading (introductory level)**
+
+- F. Cachazo, S. He, and E. Y. Yuan,“Scattering of Massless Particles in Arbitrary Dimension”, Phys. Rev. Lett. 113, 171601 (2014), [arXiv:1307.2199](https://arxiv.org/abs/1307.2199).
+- F. Cachazo, S. He, and E. Y. Yuan,"Scattering of Massless Particles: Scalars, Gluons and Gravitons", JHEP 07, 033 (2014), [arXiv:1309.0885](https://arxiv.org/abs/1309.0885).
+- F. Cachazo, S. He, and E. Y. Yuan, JHEP 07, 149 (2015),"Scattering Equations and Matrices: From Einstein To Yang-Mills, DBI and NLSM", [arXiv:1412.3479](https://arxiv.org/abs/1412.3479). 
+
+
+**Further reading**
+
+- C.R. Mafra, O. Schlottere,"Tree-level amplitudes from the pure spinor superstring",Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
+- S. Mizera, “Aspects of Scattering Amplitudes and Moduli Space Localization”, Springer Theses,  [arXiv:1906.02099](https://arxiv.org/abs/1906.02099).
+- Q. Cao, "Form Factors from String Amplitudes", Phys.Rev.Lett. 135, (2025) 021603, [arXiv:2504.15602](https://arxiv.org/abs/2504.15602).
+
+
+---
+
+## 4. Geometry behind the scattering amplitudes
+A particularly remarkable development in the study of scattering amplitudes is the emergence of underlying geometric structures. For example, amplitudes in $\mathcal{N}=4$ Super–Yang–Mills theory are elegantly encoded in the positive Grassmannian. In the simplest scalar theory, $\mathrm{Tr}(\phi^3)$, tree-level amplitudes are associated with the associahedron, while higher-loop amplitudes correspond to the surfacehedron. These insights have inspired the recent “surfaceology” program, which aims to uncover all-loop geometric patterns in more general theories, such as Yang–Mills and the Nonlinear Sigma Model.
+
+
 
 **Recommended reading (introductory level)**
 
