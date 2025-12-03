@@ -31,6 +31,9 @@ Research interests:
 
 ## Postdoctoral Researchers
 
+
+<img src="/assets/images/members/yym.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
+
 ### Dr. YuYu Mo (Visitor)
 **Email:** Y.Y.Mo@sms.ed.ac.uk
 
@@ -57,7 +60,13 @@ Research interests:
 
 ## Master Students
 
-### M.Sc. Student 
-**MSc Student**  
-Research interests:
+### M.Sc. Student Dongyu Yang(Visitor)
+**MSc Student (Year 2)**  
+Projects:
+- New experssion and structures for amplitudes in the $DF^2+YM$ theory
 
+
+### M.Sc. Student Zhenqi Han(Visitor)
+**MSc Student (Year 2)**  
+Projects:
+- New representations of amplitudes in the NLSM theory
