@@ -32,13 +32,13 @@ It is astonishing that a seemingly small subfield of QFT can connect to a broad 
 
 Our group's research interests mainly focus on various aspects of scattering amplitudes in quantum field theory and string theory, including:
 
-- **Hidden properties and relations of scattering amplitudes**  
+- **Hidden Properties and Relations of Scattering Amplitudes**  
 
-- **Color-Kinematics duality and the Double Copy**  
+- **Color-Kinematics Duality and Double Copy**  
 
-- **String Amplitudes & Worldsheet formula**  
+- **String Amplitudes & Worldsheet Formula**  
 
-- **Geometry behind the scattering amplitudes**
+- **Geometry Behind Scattering Amplitudes**
 
 - **Observables in Curved Spacetime**  
   
