@@ -6,7 +6,7 @@ title: Home
 
 <!-- Banner image -->
 <p style="text-align: center;">
-  <img src="/assets/img/lab-banner.png" alt="Lab of Quantum Fields and Strings" style="max-width: 100%; border-radius: 8px;">
+  <img src="/assets/img/lab-banner.jpeg" alt="Lab of Quantum Fields and Strings" style="max-width: 100%; border-radius: 8px;">
 </p>
 
 # Quantum Fields and Strings Lab
