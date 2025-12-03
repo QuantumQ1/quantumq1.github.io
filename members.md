@@ -20,9 +20,10 @@ Below is the current list of group members.
 **Office:** Room , Department of Physics, School of Science  
 
 Research interests:
-- Scattering amplitudes in gauge theory and gravity  
-- String amplitudes and worldsheet formula
-- AdS/CFT and holography principle
+- Scattering Amplitudes in Gauge Theory and Gravity  
+- String Amplitudes and Worldsheet Formula
+- AdS/CFT and Holography Principle
+- Geometry Behind Scattering Amplitudes
 
 [Homepage](https://quantumq1.github.io/) · [Inspirehep](https://inspirehep.net/authors/2000201) 
 
@@ -30,34 +31,26 @@ Research interests:
 
 ## Postdoctoral Researchers
 
-### Dr. Postdoc One
-**Email:** postdoc.one@university.edu  
+### Dr. YuYu Mo (Visitor)
+**Email:** Y.Y.Mo@sms.ed.ac.uk
 
 Research interests:
-- Amplitudes in supersymmetric gauge theories  
-- Loop integrands and geometric structures  
+- Observables in Curved Spacetime (dS/AdS)
 
+[Inspirehep](https://inspirehep.net/authors/2760719) 
 ---
 
 ## PhD Students
 
-### Student A
-**PhD Student (Year 3)**  
-Email: student.a@university.edu  
-
-Research topics:
-- String-inspired methods for gauge-theory amplitudes  
-- Higher-derivative corrections in effective field theory  
-
----
-
-### Student B
+### Student Fan Zhu (Visitor)
 **PhD Student (Year 1)**  
-Email: student.b@university.edu  
+Email: zhufan25@gscaep.ac.cn
 
 Research topics:
-- Holography and conformal bootstrap  
-- Scattering amplitudes in AdS/CFT  
+- Scattering Amplitudes in Gauge Theory and Gravity  
+- String Amplitudes and Worldsheet Formula
+
+[Inspirehep](https://inspirehep.net/authors/2779921) 
 
 ---
 
