@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-Our gourp's research is broadly focused on **High-Energy Physics Theory**, especially on the structures of **scattering amplitudes** in the **QFT** and **String Theory**.
+Our gourp's research is broadly focused on **High-Energy Physics Theory**, especially on the structures of **Scattering Amplitudes** in the **QFT** and **String Theory**.
 
 ---
 
