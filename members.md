@@ -25,7 +25,7 @@ Research interests:
 - AdS/CFT and Holography Principle
 - Geometry Behind Scattering Amplitudes
 
-[Homepage](https://quantumq1.github.io/) · [Inspirehep](https://inspirehep.net/authors/2000201) 
+ [Inspirehep](https://inspirehep.net/authors/2000201) 
 
 ---
 
