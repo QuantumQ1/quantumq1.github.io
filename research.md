@@ -63,7 +63,7 @@ Even though the study of scattering amplitudes is already well developed, many h
 
 **Recommended reading**
 
-- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He,*Hidden
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He, *Hidden
 zeros for particle/string amplitudes and the unity of colored scalars*, JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
 -  Q. Cao, J. Dong, S. He, C. Shi and F. Zhu, *A universal splitting of tree-level string and particle scattering amplitudes*, Phys. Lett. B  856, (2024) 138934, [arXiv:2403.08855](https://arxiv.org/abs/2403.08855).
 -  Q. Cao, J. Dong, S. He and F. Zhu, *One-loop amplitudes in gauge theories*, Phys. Rev. D 111, (2025) 065015, [arXiv:2412.19629](https://arxiv.org/abs/2412.19629).
@@ -75,13 +75,13 @@ One of the most remarkable discoveries in the study of scattering amplitudes is 
 
 **Recommended reading (introductory level)**
 
-- Z. Bern, J.J.M. Carrasco, H. Johansson, *New Relations for Gauge-Theory Amplitudes*,Phys.Rev.D 78 (2008) 085011, [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
-- Z. Bern, J.J.M. Carrasco, H. Johansson, *Perturbative Quantum Gravity as a Double Copy of Gauge Theory*,Phys.Rev.Lett. 105 (2010) 061602 , [arXiv: 1004.0476](https://arxiv.org/abs/1004.0476).
+- Z. Bern, J.J.M. Carrasco and H. Johansson, *New Relations for Gauge-Theory Amplitudes*,Phys.Rev.D 78 (2008) 085011, [arXiv:0805.3993](https://arxiv.org/abs/0805.3993).
+- Z. Bern, J.J.M. Carrasco and H. Johansson, *Perturbative Quantum Gravity as a Double Copy of Gauge Theory*,Phys.Rev.Lett. 105 (2010) 061602 , [arXiv: 1004.0476](https://arxiv.org/abs/1004.0476).
 - Z. Bern, J. J. Carrasco, M. Chiodaroli, H. Johansson, and R. Roiban, *The duality between color and kinematics and its applications*, J. Phys. A 57, 333002 (2024), [arXiv:1909.01358](https://arxiv.org/abs/1909.01358).
 
 **Further reading**
-- S. He and O. Schlotterer,*New Relations for Gauge-Theory and Gravity Amplitudes at Loop Level*, Phys. Rev. Lett. 118, 161601 (2017), [arXiv:1612.00417](https://arxiv.org/abs/1612.00417).
-- Q.Cao, S. He, Y. Zhang and F. Zhu,*Loop-Level Double Copy Relations from Forward Limits*, [arXiv:2509.025129](https://arxiv.org/abs/2509.025129).
+- S. He and O. Schlotterer, *New Relations for Gauge-Theory and Gravity Amplitudes at Loop Level*, Phys. Rev. Lett. 118, 161601 (2017), [arXiv:1612.00417](https://arxiv.org/abs/1612.00417).
+- Q.Cao, S. He, Y. Zhang and F. Zhu, *Loop-Level Double Copy Relations from Forward Limits*, [arXiv:2509.025129](https://arxiv.org/abs/2509.025129).
 
 ---
 
@@ -98,7 +98,7 @@ Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\t
 
 **Further reading**
 
-- C.R. Mafra, O. Schlottere, *Tree-level amplitudes from the pure spinor superstring*, Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
+- C.R. Mafra and O. Schlottere, *Tree-level amplitudes from the pure spinor superstring*, Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
 - S. Mizera, *Aspects of Scattering Amplitudes and Moduli Space Localization*, Springer Theses, [arXiv:1906.02099](https://arxiv.org/abs/1906.02099).
 - Q. Cao, *Form Factors from String Amplitudes*, Phys.Rev.Lett. 135, (2025) 021603, [arXiv:2504.15602](https://arxiv.org/abs/2504.15602).
 
@@ -112,29 +112,45 @@ A particularly remarkable development in the study of scattering amplitudes is t
 
 **Recommended reading (introductory level)**
 
-- C. P. Burgess, *Introduction to Effective Field Theory: Thinking Effectively about Hierarchies of Scale* (Cambridge University Press).  
-- C. Cheung, “TASI Lectures on Scattering Amplitudes,” [arXiv:1708.03872](https://arxiv.org/abs/1708.03872) – good overview of EFT and amplitudes.
+- N. Arkani-Hamed, J. L. Bourjaily, F. Cachazo, A. B. Goncharov, A. Postnikov and J. Trnka, *Grassmannian Geometry of Scattering Amplitudes*, (Cambridge University Press), [arXiv:1212.5605](https://arxiv.org/abs/1212.5605).
+- N. Arkani-Hamed and J. Trnka, *The Amplituhedron*,  JHEP 10 (2014) 030, [arXiv:1312.2007](https://arxiv.org/abs/1312.2007).
+- L. Ferro and T. Lukowski, *Amplituhedra, and beyond*,  J.Phys.A 54 (2021) 3, 033001, [arXiv: 2007.04342](https://arxiv.org/abs/2007.04342).
+- E. Herrmann and J. Trnka, *The SAGEX review on scattering amplitudes Chapter 7: Positive geometry of scattering amplitudes*,  J.Phys.A 55 (2022) 44, 443008, [arXiv:2203.13018](https://arxiv.org/abs/2203.13018).
 
 **Further reading**
 
-- C. de Rham, “TASI Lectures on Effective Field Theory,” [arXiv:1608.05547](https://arxiv.org/abs/1608.05547).  
-- N. Arkani-Hamed, T.-C. Huang and Y.-t. Huang, “Scattering Amplitudes For All Masses and Spins,” [arXiv:1709.04891](https://arxiv.org/abs/1709.04891).
+- N. Arkani-Hamed, H. Frost, G. Salvatori, P-G. Plamondon and H. Thomas, *All loop scattering as a counting problem*, JHEP 08 (2025) 194,  [arXiv:2309.15913](https://arxiv.org/abs/2309.15913).  
+- N. Arkani-Hamed, H. Frost, G. Salvatori, P-G. Plamondon and H. Thomas, *All loop scattering for all multiplicity*, JHEP 09 (2025) 033,  [arXiv:2311.09284](https://arxiv.org/abs/2311.09284).
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He, *Hidden
+zeros for particle/string amplitudes and the unity of colored scalars*, JHEP 10, (2024) 231, [arXiv:2312.16282](https://arxiv.org/abs/2312.16282).
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He, *Scalar-scaffolded gluons and the combinatorial origins of Yang-Mills theory*, JHEP 04 (2025) 078, [arXiv:2401.00041](https://arxiv.org/abs/2401.00041).
+- N. Arkani-Hamed, Q. Cao, J. Dong, C. Figueiredo and S. He, *Nonlinear Sigma model amplitudes to all loop orders are contained in the Tr(Φ3) theory*, Phys. Rev. D 110, (2024) 065018, [arXiv:2401.05483](https://arxiv.org/abs/2401.05483).
 
 ---
 
-## 4. Holography and Quantum Gravity (in progress)
+## 5. Observables in Curved Spacetime
+Our group is also interested in the study of observables in curved spacetime. There are two main directions:
+	1.	Anti–de Sitter (AdS) spacetime:
+Owing to the holographic principle, AdS is dual to a conformal field theory (CFT) living on its boundary. We investigate observables in the AdS bulk, particularly scattering amplitudes, and frequently make use of the duality to study CFT correlation functions through their Mellin-space representations.
+	2.	de Sitter (dS) spacetime:
+In this setting, our focus shifts to the wavefunction coefficients of the universe in dS spacetime, which play an analogous role to scattering amplitudes and encode rich cosmological information.
 
-I am also interested in connections between scattering amplitudes, string theory and **holography**, in particular:
 
-- How flat-space or AdS scattering data are encoded in CFT correlators.
-- What amplitude-inspired tools can teach us about black holes and quantum gravity.
+**Recommended reading (introductory level)**
 
-**Suggested starting points**
+- J. Penedones, *TASI lectures on AdS/CFT*, TASI 2015, 75-136, [arXiv:1608.04948 ](https://arxiv.org/abs/1608.04948).  
+- A. Bissi, A. Sinha and Xinan Zhou, *Selected topics in analytic conformal bootstrap: A guided journey*,  Phys.Rept. 991 (2022) 1-89, [arXiv:2202.08475](https://arxiv.org/abs/2202.08475).  
+- P. Benincasa, *Amplitudes meet Cosmology: A (Scalar) Primer*, [arXiv:2203.15330](https://arxiv.org/abs/2203.15330).
+- P. Benincasa, M. Giroux, H. S. Hannesdottir and S. Mizera and C. Pasiecznik, *Records from the S-Matrix Marathon: Observables in Expanding Universes*, [arXiv:2409.14947](https://arxiv.org/abs/2409.14947).
+- M. G. Lee, E. Pajer, M. Giroux, H.S. Hannesdottir and S. Mizera, *Records from the S-Matrix Marathon: A Timeless History of Time*, [arXiv:2410.00227](https://arxiv.org/abs/2410.00227).
+  
+**Further reading**
+- Q. Cao, S. He,and Y. Tang, *Constructibility of AdS Supergluon Amplitudes*, Phys. Rev. Lett. 133 (2024) 021605, [arXiv:2312.15484](https://arxiv.org/abs/2312.15484).
+- Z. Huang and Y. Tang, *Spinning Mellin amplitudes*,  [arXiv:2510.07388](https://arxiv.org/abs/2510.07388).
+- J. Mei and Y. Mo, *From on-shell amplitude in AdS to cosmological correlators: gluons and gravitons*,  [arXiv:2410.04875](https://arxiv.org/abs/2410.04875).
+- D. Baumann, C. D. Pueyo, A. Joyce, H. Lee and G. L. Pimentel, *The Cosmological Bootstrap: Spinning Correlators from Symmetries and Factorization*,  SciPost Phys. 11 (2021) 071, [arXiv:2005.04234](https://arxiv.org/abs/2005.04234).
 
-- J. Polchinski, *String Theory*, Vol. 2 – chapters on AdS/CFT.  
-- O. Aharony, S. Gubser, J. Maldacena, H. Ooguri and Y. Oz, “Large N Field Theories, String Theory and Gravity,” [arXiv:hep-th/9905111](https://arxiv.org/abs/hep-th/9905111).  
-- D. Simmons-Duffin, “TASI Lectures on the Conformal Bootstrap,” [arXiv:1602.07982](https://arxiv.org/abs/1602.07982).
 
 ---
 
-If you are a student or potential collaborator interested in these topics and would like to discuss projects or reading directions, feel free to contact me by email.
+If you are a student or potential collaborator interested in these topics and would like to discuss projects or reading directions, feel free to contact us by email.
