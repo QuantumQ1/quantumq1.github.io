@@ -89,7 +89,7 @@ See full list on the [Publications page](/publications/).
 
 ## Group Members
 
-We are always looking for highly motivated students and collaborators with interest in QFT, ST, and amplitudes.
+We are always looking for highly motivated students and collaborators with interest in QFT, String theory, and amplitudes.
 
 See details on the [Members page](/members/).
 
