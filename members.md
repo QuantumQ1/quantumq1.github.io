@@ -12,7 +12,7 @@ Below is the current list of group members.
 
 ## Principal Investigator
 
-<!--<img src="/assets/images/members/pi.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">-->
+<!--<img src="/assets/img/members/pi.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">-->
 
 ### Dr. Qu Cao
 **Position:** Principal Investigator (PI)  
@@ -32,7 +32,7 @@ Research interests:
 ## Postdoctoral Researchers
 
 
-<img src="/assets/images/members/yym.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
+<img src="/assets/img/members/yym.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
 
 ### Dr. YuYu Mo (Visitor)
 **Email:** Y.Y.Mo@sms.ed.ac.uk
