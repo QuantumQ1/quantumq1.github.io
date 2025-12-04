@@ -8,9 +8,9 @@ title: Home
   <img src="/assets/img/lab-banner.jpeg" alt="Lab of Quantum Fields and Strings" style="max-width: 100%; border-radius: 8px;">
 </p>
 
-# Quantum Fields and Strings Lab
+# Quantum Fields and Strings Group
 
-Welcome to the **Quantum Fields and Strings Lab**.  
+Welcome to the **Quantum Fields and Strings Group**.  
 
 Our group conducts research in **Quantum Field Theory (QFT)** and **String Theory**, with a primary emphasis on understanding the analytical properties and mathematical structures of **Scattering Amplitudes**. 
 
