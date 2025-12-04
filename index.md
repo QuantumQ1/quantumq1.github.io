@@ -12,7 +12,7 @@ title: Home
 
 Welcome to the **Quantum Fields and Strings Lab**.  
 
-Our group conducts research in **Quantum Field Theory (QFT)** and **String Theory**, with a primary emphasis on understanding the structural and analytical properties of **Scattering Amplitudes**. 
+Our group conducts research in **Quantum Field Theory (QFT)** and **String Theory**, with a primary emphasis on understanding the analytical properties and mathematical structures of **Scattering Amplitudes**. 
 
 We aim to uncover the deep mathematical structures governing fundamental interactions, develop new analytic and geometric frameworks, and apply these insights to problems in field theory, gravity, and string theory.
 
