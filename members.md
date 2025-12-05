@@ -25,7 +25,7 @@ Research interests:
 - AdS/CFT and Holography Principle
 - Geometry Behind Scattering Amplitudes
 
- [Inspirehep](https://inspirehep.net/authors/2000201) 
+ [Homepage](https://en.westlake.edu.cn/faculty/qu-cao.html)·[Inspirehep](https://inspirehep.net/authors/2000201) 
 
 ---
 
