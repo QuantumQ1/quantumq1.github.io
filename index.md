@@ -48,6 +48,7 @@ Learn more on the [Research page](/research/).
 ## News & Updates
 
 <!-- - **2025-11-01** — New preprint posted: *Title* (arXiv:xxxx.xxxxx). --> 
+- **2025-12-5** — Open Call for Postdoctoral Researchers! [https://inspirehep.net/jobs/3089527](https://inspirehep.net/jobs/3089527)  
 - **2025-12-1** — Website launched!  
 
 ---
