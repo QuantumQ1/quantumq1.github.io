@@ -26,10 +26,13 @@ We invite applications for **postdoctoral researcher positions** in our group.
 - PhD in theoretical physics or a closely related field  
 - Experience in high-energy theory, amplitudes, or mathematical physics 
 
-Prospective applicants are encouraged to **contact us directly** with:
+Prospective applicants are encouraged to contact us directly with:
 - CV  
 - List of publications  
 - Research statements
+- At least 2 reference letters
+
+Please apply for this postion via AJO [https://academicjobsonline.org/ajo/jobs/31344](https://academicjobsonline.org/ajo/jobs/31344). 
 
 ---
 
