@@ -16,7 +16,7 @@ en_url: /members/
 
 <img src="/assets/img/members/PI.jpg" alt="Dr. Qu Cao photo" width="200" style="border-radius: 8px;">
 
-### 曹曲 博士
+### 曹趣 博士
 
 **职位：** 课题组负责人（PI）
 **邮箱：** caoqu@westlake.edu.cn
