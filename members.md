@@ -33,42 +33,64 @@ Research interests:
 
 ## Postdoctoral Researchers
 
+To be updated.
+
+---
+
+## Research Assistants
+
+To be updated.
+
+---
+
+## Administrative Assistants
+
+To be updated.
+
+---
+
+## Visitors
 
 <img src="/assets/img/members/yym.jpg" alt="Dr. photo" width="200" style="border-radius: 8px;">
 
-### Dr. YuYu Mo (Visitor)
+### Dr. YuYu Mo
+
+**Visitor (Postdoctoral level)**
+
 **Email:** Y.Y.Mo@sms.ed.ac.uk
 
 Research interests:
 - Observables in Curved Spacetime (dS/AdS)
 
-[Inspirehep](https://inspirehep.net/authors/2760719) 
+[Inspirehep](https://inspirehep.net/authors/2760719)
 
 ---
 
-## PhD Students
+### Fan Zhu
 
-### Fan Zhu (Visitor)
-**PhD Student (Year 1)**  
+**Visitor (PhD Student, Year 1)**
+
 **Email:** zhufan25@gscaep.ac.cn
 
 Research interests:
-- Scattering Amplitudes in Gauge Theory and Gravity  
+- Scattering Amplitudes in Gauge Theory and Gravity
 - String Amplitudes and Worldsheet Formula
 
-[Inspirehep](https://inspirehep.net/authors/2779921) 
+[Inspirehep](https://inspirehep.net/authors/2779921)
 
 ---
 
-## Master Students
+### Dongyu Yang
 
-###  Dongyu Yang(Visitor)
-**MSc Student (Year 2)**  
+**Visitor (MSc Student, Year 2)**
+
 Projects:
 - New expression and structures for amplitudes in $DF^2+YM$ theory
 
 
-### Zhenqi Han(Visitor)
-**MSc Student (Year 2)**  
+### Zhenqi Han
+
+**Visitor (MSc Student, Year 2)**
+
 Projects:
 - New representations of amplitudes in NLSM theory
