@@ -8,13 +8,23 @@
 
     <!-- Navigation -->
     <nav class="main-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="/research/">Research</a>
-      <a href="/publications/">Publications</a>
-      <a href="/members/">Members</a>
-      <a href="/conferences/">Conferences</a>
-      <a href="/opportunities/">Opportunities</a>
-      <!-- <a href="/contact/">Contact</a> -->
+      {% if page.lang == 'zh' %}
+        <a href="{{ '/cn/' | relative_url }}">主页</a>
+        <a href="{{ '/cn/research/' | relative_url }}">研究方向</a>
+        <a href="{{ '/cn/publications/' | relative_url }}">论文发表</a>
+        <a href="{{ '/cn/members/' | relative_url }}">成员</a>
+        <a href="{{ '/cn/conferences/' | relative_url }}">学术会议</a>
+        <a href="{{ '/cn/opportunities/' | relative_url }}">加入我们</a>
+        <a href="{{ page.en_url | default: '/' | relative_url }}">English</a>
+      {% else %}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/members/' | relative_url }}">Members</a>
+        <a href="{{ '/conferences/' | relative_url }}">Conferences</a>
+        <a href="{{ '/opportunities/' | relative_url }}">Opportunities</a>
+        <a href="{{ page.zh_url | default: '/cn/' | relative_url }}">中文</a>
+      {% endif %}
     </nav>
 
   </div>

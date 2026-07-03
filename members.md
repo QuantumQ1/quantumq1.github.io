@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Members
+lang: en
+zh_url: /cn/members/
 ---
 
 # Members
@@ -63,7 +65,7 @@ Research interests:
 ###  Dongyu Yang(Visitor)
 **MSc Student (Year 2)**  
 Projects:
-- New experssion and structures for amplitudes in $DF^2+YM$ theory
+- New expression and structures for amplitudes in $DF^2+YM$ theory
 
 
 ### Zhenqi Han(Visitor)

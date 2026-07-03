@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Research
+lang: en
+zh_url: /cn/research/
 ---
 
 # Research
 
-Our gourp's research is broadly focused on **High-Energy Physics Theory**, especially on the structures of **Scattering Amplitudes** in the **QFT** and **String Theory**.
+Our group's research is broadly focused on **High-Energy Physics Theory**, especially on the structures of **Scattering Amplitudes** in the **QFT** and **String Theory**.
 
 ---
 
@@ -34,7 +36,7 @@ Our gourp's research is broadly focused on **High-Energy Physics Theory**, espec
 
 
 
-**Below is a brief overview of our gourp's research interests and some suggested introductory references for students and collaborators.**
+**Below is a brief overview of our group's research interests and some suggested introductory references for students and collaborators.**
 
 ---
 
@@ -58,7 +60,7 @@ Typical questions include:
 
 ## 1. Hidden Properties and Relations of Scattering Amplitudes
 
-Even though the study of scattering amplitudes is already well developed, many hidden properties and relations (such as the zeros, splitting, and universial expansion relations) have only been discovered recently. There remain mysteries yet to be uncovered, and we continue to seek a deeper understanding of scattering amplitudes.
+Even though the study of scattering amplitudes is already well developed, many hidden properties and relations (such as the zeros, splitting, and universal expansion relations) have only been discovered recently. There remain mysteries yet to be uncovered, and we continue to seek a deeper understanding of scattering amplitudes.
 
 
 **Recommended reading**
@@ -98,7 +100,7 @@ Field-theory amplitudes can be obtained from string amplitudes in the $\alpha'\t
 
 **Further reading**
 
-- C.R. Mafra and O. Schlottere, *Tree-level amplitudes from the pure spinor superstring*, Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
+- C.R. Mafra and O. Schlotterer, *Tree-level amplitudes from the pure spinor superstring*, Phys.Rept. 1020 (2023) 1-162, [arXiv:2210.14241](https://arxiv.org/abs/2210.14241).
 - S. Mizera, *Aspects of Scattering Amplitudes and Moduli Space Localization*, Springer Theses, [arXiv:1906.02099](https://arxiv.org/abs/1906.02099).
 - Q. Cao, *Form Factors from String Amplitudes*, Phys.Rev.Lett. 135, (2025) 021603, [arXiv:2504.15602](https://arxiv.org/abs/2504.15602).
 

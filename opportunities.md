@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Opportunities
+lang: en
+zh_url: /cn/opportunities/
 ---
 
 # Opportunities
@@ -32,7 +34,7 @@ Prospective applicants are encouraged to contact us directly with:
 - Research statements
 - At least 2 reference letters
 
-Please apply for this postion via AJO [https://academicjobsonline.org/ajo/jobs/31344](https://academicjobsonline.org/ajo/jobs/31344). 
+Please apply for this position via AJO [https://academicjobsonline.org/ajo/jobs/31344](https://academicjobsonline.org/ajo/jobs/31344).
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Conferences
+lang: en
+zh_url: /cn/conferences/
 ---
 
 # Conferences on Scattering Amplitudes and String Theory
