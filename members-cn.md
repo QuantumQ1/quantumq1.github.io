@@ -20,7 +20,6 @@ en_url: /members/
 
 **职位：** 课题组负责人（PI）
 **邮箱：** caoqu@westlake.edu.cn
-**办公室：** 理学院物理系
 
 研究兴趣：
 
@@ -55,7 +54,7 @@ en_url: /members/
 
 <img src="/assets/img/members/yym.jpg" alt="Dr. YuYu Mo photo" width="200" style="border-radius: 8px;">
 
-### Mo YuYu 博士
+### 莫裕宇 博士
 
 **访问人员（博士后阶段）**
 
@@ -69,9 +68,9 @@ en_url: /members/
 
 ---
 
-### 朱帆
+### 朱凡
 
-**访问人员（博士一年级）**
+**访问人员（博士生）**
 
 **邮箱：** zhufan25@gscaep.ac.cn
 
@@ -84,9 +83,9 @@ en_url: /members/
 
 ---
 
-### 杨东宇
+### 杨东昱
 
-**访问人员（硕士二年级）**
+**访问人员（硕士生）**
 
 项目：
 
@@ -94,7 +93,7 @@ en_url: /members/
 
 ### 韩振琦
 
-**访问人员（硕士二年级）**
+**访问人员（硕士生）**
 
 项目：
 
